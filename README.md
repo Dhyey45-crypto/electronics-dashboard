@@ -1,4 +1,5 @@
 # ⚡ NovaTech Electronics — Dynamic Retail Dashboard & Quick-Commerce App
+### 🔗 [Launch the Live App](https://electronics-dashboard-atd4rcauupdy9pzsgwmois.streamlit.app/)
 
 A single-page, split-screen **Streamlit** web application for an electronics
 retail company. Built to demo a fully dynamic dashboard + a Blinkit/Zepto-style
